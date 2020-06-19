@@ -23,3 +23,5 @@ You can find more info on the datasets in UCI's database.([info for Parkinsons d
 - Tensorflow or another Keras backend (pip install tensorflow or for GPU assuming CUDA and CUDNN already installed and in PATH, pip install tensorflow-gpu)
 
 *Disclaimer*: I don't own or have created these datasets and so, I personally should not be held liable for any discrepancies arising in the results or datasets. Also, this repo is created for learning purposeonly so, the resulting asset of the exercise should not be used to provide any kind of healthcare facility to a patient or used in a clinical setting but can be built upon the same (with credits xD) for better and more accurate results!
+
+**Query?** Email me at [nandan.patel951@gmail.com](nandan.patel951@gmail.com)
