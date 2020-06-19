@@ -5,6 +5,8 @@ Detecting Parkinsons Disease with ML from pre-existing datasets
 
 There are two datasets within this. The first is in the root folder (parkinsons.data which is included here too) and can be used to detect Parkinsons. The second is within the telemonitoring/ directory and contains UDPR scores for us to predict.
 
+This repo also contains pre-trained models(fine tuned) and so can be directly used for their application!
+
 <b><h2>Approach</h2></b>
 
 Approaches are provided in the Jupyter notebook for this repo (parkinsons_trainmodel.ipynb). Run using jupyter notebook from this repo's root folder in the terminal.
