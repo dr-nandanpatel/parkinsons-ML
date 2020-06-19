@@ -30,5 +30,4 @@ print(metrics.accuracy_score(Y_test, y_pred))
 print(metrics.classification_report(Y_test, y_pred))
 print(metrics.confusion_matrix(Y_test, y_pred))
 
-
 # Now we are gonna try fine-tuning KNeighborsCclassifier() aka beat 97.959% 
